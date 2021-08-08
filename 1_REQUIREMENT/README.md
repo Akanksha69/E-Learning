@@ -74,14 +74,4 @@ download application from the github
 
 ## Low level requirement
 
-*	User Login    [username,password]
-
-*	Course			[JAVA,PYTHON,C++]
-
-*	Study Materials 	[Video content,PDF/PPT]
-
-*	Feedback Mechanism
-*	Fee Details
-*	Doubts
-*	Test Series/Quizzes
-*	Exam Notification
+![Low Level Requirement](https://github.com/Akanksha69/E-Learning/blob/699534e49e5bf1bb1650133bde685f339f1fd84c/1_REQUIREMENT/Low%20Level%20Requirement.png)
