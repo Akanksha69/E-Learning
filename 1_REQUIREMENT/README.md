@@ -75,16 +75,17 @@ download application from the github
 ## Low level requirement
 
 *	User Login 			
-*					username
-*					password
+					username
+					password
 
 *	Course			
-*					JAVA
-*				      PYTHON
-*				      c++
+					JAVA
+				      PYTHON
+				      c++
 
-*	Study Materials 		Video content
-				        PDF/PPT
+*	Study Materials 		
+					Video content
+					PDF/PPT
 
 *	Feedback Mechanism
 *	Fee Details
