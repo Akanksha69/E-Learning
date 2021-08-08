@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e9d52e9be83244b4b3284ced187c0979)](https://www.codacy.com/gh/Akanksha69/E-Learning/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Akanksha69/E-Learning&amp;utm_campaign=Badge_Grade)
