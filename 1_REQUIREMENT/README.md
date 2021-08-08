@@ -74,9 +74,7 @@ download application from the github
 
 ## Low level requirement
 
-*	User Login 			
-*					username
-*					password
+*	User Login    [username,password]
 
 *	Course			
 *					JAVA
