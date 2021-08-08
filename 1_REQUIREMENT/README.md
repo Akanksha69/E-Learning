@@ -74,10 +74,10 @@ download application from the github
 
 ## Low level requirement
 
-*	User Login ----------------- Username
-		   ----------------- Password
+*	User Login 			username
+*					password
 
-*	Course			      JAVA
+*	Course				JAVA
 *				      PYTHON
 *				      c++
 
