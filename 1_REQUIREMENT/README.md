@@ -76,14 +76,9 @@ download application from the github
 
 *	User Login    [username,password]
 
-*	Course			
-*					JAVA
-*				      PYTHON
-*				      c++
+*	Course			[JAVA,PYTHON,C++]
 
-*	Study Materials 		
-*					Video content
-*					PDF/PPT
+*	Study Materials 	[Video content,PDF/PPT]
 
 *	Feedback Mechanism
 *	Fee Details
