@@ -74,17 +74,12 @@ download application from the github
 
 ## Low level requirement
 
-*	User Login		    Username
-				    Password
+*	User Login ----------------- Username
+		   ----------------- Password
 
-*	Course			      General Competition
-				      NEET
-				      IIT/JEE
-				      UPSC/State PSC
-				      10 th board
-				      12th board
-				      CAT/GRE
-				      Interview Preparation
+*	Course			      JAVA
+*				      PYTHON
+*				      c++
 
 *	Study Materials 		Video content
 				        PDF/PPT
